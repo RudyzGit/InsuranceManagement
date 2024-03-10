@@ -8,6 +8,7 @@ node{
         mavenCMD = "${mavenHome}/bin/mvn"
         tag="3.0"
 	dockerHubUser="rudrodock"
+	dockerPassword="Ilate2022!"    
 	containerName="insure-me"
 	httpPort="8081"
     }
